@@ -129,6 +129,13 @@
         </div>
     </nav>
     </div>
+    <div class="container"><br><br>
+        <h1> &nbsp; &nbsp; &nbsp; &nbsp;All Cars</h1>
+        <div class="from-group">
+            <div class="col-md-12 col-md-offset-12">
+                <button type="summit" class="btn btn-primary"><i class="fa fa-plus fa-fw"></i> POST</div></button>
+            </div>
+        </div>
 
 </body>
 </html>
