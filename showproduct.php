@@ -128,16 +128,7 @@
             </div>
         </div>
     </nav>
-    <!-- Page Content -->
-    <div id="page-wrapper">
-        <div class="container-fluid">
-            <?php
-                include("main.php");
-            ?>           
-
-        </div>
-        
     </div>
-</div>
+
 </body>
 </html>
